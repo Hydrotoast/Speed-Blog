@@ -1,0 +1,55 @@
+Speed Blog
+==========
+
+A practice blog written in PHP under the clock using `time cat`
+as a stopwatch. It took approximately 2.58 hours to write this
+code in PHP.
+
+	$ time cat
+	real	155m40.382s
+
+The blog is written using a mixed paradigm of OOP and procedural.
+Here are a few features, of which, a few are characteristic to a
+programming paradigm:
+
+Database
+--------
+
+- Sqlite3 database
+- PDO Connection to the database
+- Posts-Comments-Tags schema
+
+Object-Oriented
+---------------
+
+- Singleton on the Configuration
+- Data Models
+- PDO
+
+Procedural
+----------
+
+- Constants file
+- Common functions/globals file
+
+Design
+------
+
+- Modularized header and footer
+- Centered layout
+- Minor typography on headers
+- Minor color theory applied
+- Minor link and navigation design
+- Minor form design
+- HTML5 features
+
+Forms
+-----
+
+- Minor design
+- Form validation and sanitization
+- Security through validation, sanitization and prepared statements
+
+Again, please bear in mind that the primary purpose of this
+project is speed. I have completed each of these features within
+a span of 2.58 hours.
